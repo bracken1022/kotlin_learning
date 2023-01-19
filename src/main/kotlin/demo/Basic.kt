@@ -1,7 +1,5 @@
 package demo
 
-import java.util.Objects
-
 
 fun printToStandard() {
     print("Hello")
