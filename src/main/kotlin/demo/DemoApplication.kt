@@ -6,6 +6,9 @@ package demo
 fun main(args: Array<String>) {
 
 //    runBasic()
-    runTypeCheck()
+//    runTypeCheck()
+    runControlFlow()
+
 }
+
 

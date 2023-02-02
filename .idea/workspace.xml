@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5add9fb6-ded3-457e-8f7f-0a3efc7cdfbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/demo/TypeCheck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/demo/ControlFlow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/demo/utils/SegmentDescription.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/demo/DemoApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/demo/DemoApplication.kt" afterDir="false" />
     </list>
@@ -93,12 +94,20 @@
       <option name="project" value="LOCAL" />
       <updated>1674096980212</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add type cast example">
+      <created>1675307990508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675307990509</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add README" />
-    <option name="LAST_COMMIT_MESSAGE" value="add README" />
+    <MESSAGE value="add type cast example" />
+    <option name="LAST_COMMIT_MESSAGE" value="add type cast example" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
