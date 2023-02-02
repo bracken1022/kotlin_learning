@@ -5,5 +5,7 @@ package demo
 
 fun main(args: Array<String>) {
 
-    runBasic()
+//    runBasic()
+    runTypeCheck()
 }
+

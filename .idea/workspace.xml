@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5add9fb6-ded3-457e-8f7f-0a3efc7cdfbe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/demo/TypeCheck.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/demo/Basic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/demo/Basic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/demo/DemoApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/demo/DemoApplication.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,19 @@
       <option name="presentableId" value="Default" />
       <updated>1673967348494</updated>
     </task>
+    <task id="LOCAL-00001" summary="add README">
+      <created>1674096980212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674096980212</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add README" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
