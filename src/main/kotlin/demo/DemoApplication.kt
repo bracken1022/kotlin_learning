@@ -7,7 +7,8 @@ fun main(args: Array<String>) {
 
 //    runBasic()
 //    runTypeCheck()
-    runControlFlow()
+//    runControlFlow()
+    runClazz()
 
 }
 
